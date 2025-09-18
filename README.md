@@ -1,6 +1,7 @@
 # cis4296-project-proofofconcept
 
 Proof of Concept for Focus Study Buddy project proposal
+
 Selections of active tab show up selected for a quick note with accompanying timer
 
 How to install:
@@ -12,4 +13,5 @@ How to install:
 
 Derived from open-source extension MarkDownload: https://github.com/deathau/markdownload/tree/main
 MarkDownload cited code that I utilized: https://jsfiddle.net/Y4BBq/
+
 Assisted by GitHub copilot
