@@ -12,6 +12,7 @@ How to install:
 5) Open the repo folder
 
 Derived from open-source extension MarkDownload: https://github.com/deathau/markdownload/tree/main
+
 MarkDownload cited code that I utilized: https://jsfiddle.net/Y4BBq/
 
 Assisted by GitHub copilot
